@@ -3,6 +3,6 @@
 
 # Analog clock using HTML, CSS, and JavaScript
 
- Hello, guys welcome to you another tutorial of techmidpoint. In this tutorial, I am going to show you How to make an analog clock using HTML, CSS, and JavaScript. First, download the given below image and put the same directory of the HTML file then apply the CSS rules.
+ Hello, guys welcome to you another tutorial. In this tutorial, I am going to show you How to make an analog clock using HTML, CSS, and JavaScript. First, download the given below image and put the same directory of the HTML file then apply the CSS rules.
 
 
